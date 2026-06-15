@@ -5,8 +5,8 @@ A responsive one-page portfolio template for a PHP WordPress Developer, ready to
 ## What is included
 
 - `index.html` — main portfolio page
-- `assets/css/styles.css` — responsive styling
-- `assets/js/main.js` — mobile menu, current year, scroll reveal animation
+- `styles.css` — responsive styling
+- `main.js` — mobile menu, current year, scroll reveal animation
 - `.nojekyll` — helps GitHub Pages serve static assets as-is
 
 ## How to customize
